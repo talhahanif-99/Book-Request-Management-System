@@ -115,15 +115,6 @@ http://localhost/book-request-system/
 
 ---
 
-## Screenshots
-
-Add screenshots of your project here.
-
----
-
 ## Contributing
 
 Contributions are welcome. Fork the repository and submit a pull request.
-
----
-
