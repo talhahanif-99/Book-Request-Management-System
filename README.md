@@ -127,26 +127,3 @@ Contributions are welcome. Fork the repository and submit a pull request.
 
 ---
 
-## License
-
-This project is open-source and available under the MIT License.
-
----
-
-## Author
-
-Your Name
-GitHub: [https://github.com/your-username](https://github.com/your-username)
-
----
-
-## Support
-
-If you find this project useful, consider giving it a star.
-
-```
-
----
-
-If you want a **more advanced version (badges, deployment links, API docs, ERD diagram)**, I can build that too.
-```
